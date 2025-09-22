@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35014.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P21_ForeachDispose_FakeDb", "P21_ForeachDispose_FakeDb\P21_ForeachDispose_FakeDb.csproj", "{8DF280D3-75DF-4931-8148-75D399F842A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P22_ForeachDispose_FakeSocket", "P22_ForeachDispose_FakeSocket\P22_ForeachDispose_FakeSocket.csproj", "{9A7EA28F-C811-4434-9D47-41F953E33A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P23_ForeachDispose_NestedEnumerators", "P23_ForeachDispose_NestedEnumerators\P23_ForeachDispose_NestedEnumerators.csproj", "{97487525-8471-433E-824A-94D3C67D233A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P24_ForeachDispose_ExceptionMidLoop", "P24_ForeachDispose_ExceptionMidLoop\P24_ForeachDispose_ExceptionMidLoop.csproj", "{4C1F203E-03E9-4A52-A930-9EFBE7C185DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P25_ForeachDispose_WrapperEnumerator", "P25_ForeachDispose_WrapperEnumerator\P25_ForeachDispose_WrapperEnumerator.csproj", "{FAEC63AF-E084-41A6-9D85-E5799168FE36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF280D3-75DF-4931-8148-75D399F842A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF280D3-75DF-4931-8148-75D399F842A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF280D3-75DF-4931-8148-75D399F842A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF280D3-75DF-4931-8148-75D399F842A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7EA28F-C811-4434-9D47-41F953E33A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7EA28F-C811-4434-9D47-41F953E33A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7EA28F-C811-4434-9D47-41F953E33A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7EA28F-C811-4434-9D47-41F953E33A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97487525-8471-433E-824A-94D3C67D233A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97487525-8471-433E-824A-94D3C67D233A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97487525-8471-433E-824A-94D3C67D233A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97487525-8471-433E-824A-94D3C67D233A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1F203E-03E9-4A52-A930-9EFBE7C185DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1F203E-03E9-4A52-A930-9EFBE7C185DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1F203E-03E9-4A52-A930-9EFBE7C185DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1F203E-03E9-4A52-A930-9EFBE7C185DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEC63AF-E084-41A6-9D85-E5799168FE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEC63AF-E084-41A6-9D85-E5799168FE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEC63AF-E084-41A6-9D85-E5799168FE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEC63AF-E084-41A6-9D85-E5799168FE36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

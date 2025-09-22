@@ -1,0 +1,13 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>ISO-1</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)GlobalTargetFrameworkAttribute.cs">
+      <Link>GlobalTargetFrameworkAttribute.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>
